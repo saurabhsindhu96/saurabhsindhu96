@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
 <h3 align="center">Developer with Electronics and Telecommunication Background</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhsindhu96&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhsindhu96" /> </p>
 
