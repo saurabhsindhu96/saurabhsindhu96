@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Capstone Project**
 
-- 🌱 I’m currently learning **React-Native, Swift iOS, Open Source, Problem Solving**
+- 🌱 I’m currently learning **React-Native, React, Open Source, Problem Solving**
 
 - 💬 Ask me about **Javascript, React**
 
