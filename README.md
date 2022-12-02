@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React-Native, React, Open Source, Problem Solving**
 
-- 💬 Ask me about **Javascript, React**
+- 💬 Ask me about **Javascript, React, Node**
 
 - 📫 How to reach me **https://www.linkedin.com/in/saurabhsindhu96/**
 
