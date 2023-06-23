@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript, React, Node**
 
-- 📫 How to reach me **https://www.linkedin.com/in/saurabhsindhu96/**
+- 📫 How to reach me **https://www.linkedin.com/in/saurabhsindhu/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
