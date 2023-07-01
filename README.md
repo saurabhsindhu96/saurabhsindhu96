@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhsindhu96&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhsindhu96" /> </p>
 
-- 🔭 I’m currently working on **Solidty, **
+- 🔭 I’m currently attending  **Summer School at UZH Blockchain Center and UBC Summer Institute 2023**
 
 - 🌱 I’m currently learning about **Solidity,Polkadot, Rust, Substrate**
 
