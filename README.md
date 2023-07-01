@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhsindhu96&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhsindhu96" /> </p>
 
-- 🔭 I’m currently working on **Capstone Project**
+- 🔭 I’m currently working on **Solidty, **
 
-- 🌱 I’m currently learning **React, Open Source, Problem Solving**
+- 🌱 I’m currently learning about **Solidity,Polkadot, Rust, Substrate**
 
-- 💬 Ask me about **Javascript, React, Node**
+- 💬 Ask me about **Web3 future and future of decentralization**
 
 - 📫 How to reach me **https://www.linkedin.com/in/saurabhsindhu/**
 
