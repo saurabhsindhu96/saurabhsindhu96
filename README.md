@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
-<h3 align="center">🔗 Blockchain Enthusiast | Building the Decentralized Future| <br />Excited about the potential of blockchain, I specialize in Solidity for crafting smart contracts on the Ethereum network.  <br /> I'm actively exploring the possibilities of Web3 technologies to build decentralized applications and contribute to the future of the internet.
- I'm diving into the world of Polkadot and Substrate, exploring their unique features and interoperability. I'm thrilled to be part of the next generation of decentralized systems and contribute to the advancement of the blockchain ecosystem</h3>
+<h3 align="center">🔗 Blockchain Enthusiast | Building the Decentralized Future| <br />
+ <h2 align ="left>Excited about the potential of blockchain, I specialize in Solidity for crafting smart contracts on the Ethereum network.  <br /> <h2 align ="left>I'm actively exploring the possibilities of Web3 technologies to build decentralized applications and contribute to the future of the internet.
+ <h2 align ="left>I'm diving into the world of Polkadot and Substrate, exploring their unique features and interoperability. I'm thrilled to be part of the next generation of decentralized systems and contribute to the advancement of the blockchain ecosystem</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhsindhu96&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhsindhu96" /> </p>
 
