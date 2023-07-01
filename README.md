@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
-<h3 align="center">🔗 Blockchain Enthusiast | Building the Decentralized Future</h3>
+<h3 align="center">🔗 Blockchain Enthusiast | Building the Decentralized Future| Excited about the potential of blockchain, I specialize in Solidity for crafting smart contracts on the Ethereum network. I'm actively exploring the possibilities of Web3 technologies to build decentralized applications and contribute to the future of the internet.
+ I'm diving into the world of Polkadot and Substrate, exploring their unique features and interoperability. I'm thrilled to be part of the next generation of decentralized systems and contribute to the advancement of the blockchain ecosystem</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
-<p align="center"> 
-  👋 Welcome to my GitHub profile! I'm a passionate developer with expertise in MERN stack and a deep interest in blockchain technologies.<br />
-  💡 I love to innovate and create impactful solutions using the power of JavaScript, React, and the MERN stack. My projects on GitHub showcase my skills in web development and demonstrate my commitment to building robust and user-friendly applications.<br />
-🔗 Excited about the potential of blockchain, I specialize in Solidity for crafting smart contracts on the Ethereum network. I'm actively exploring the possibilities of Web3 technologies to build decentralized applications and contribute to the future of the internet. <br />
-🚀 Additionally, I'm diving into the world of Polkadot and Substrate, exploring their unique features and interoperability. I'm thrilled to be part of the next generation of decentralized systems and contribute to the advancement of the blockchain ecosystem.<br />
-🤝 Let's connect, collaborate, and build amazing things together. Follow me on this journey of innovation and exploration. </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhsindhu96&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhsindhu96" /> </p>
 
 - 🔭 I’m currently attending  **Summer School at UZH Blockchain Center and UBC Summer Institute 2023**
