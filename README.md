@@ -41,10 +41,11 @@ I have experience working in telecom operations, reporting, and customer data an
 
 ## GitHub Stats
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhsindhu96&show_icons=true&locale=en" alt="saurabhsindhu96" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhsindhu96&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhsindhu96&" alt="saurabhsindhu96" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhsindhu96&theme=default" alt="GitHub Streak" />
 </p>
+
