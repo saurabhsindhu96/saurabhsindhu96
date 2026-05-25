@@ -48,8 +48,6 @@ Data Analyst with experience in telecom operations, reporting, and customer data
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saurabhsindhu96&show_icons=true&theme=default&cache_seconds=1800" alt="GitHub Stats" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=saurabhsindhu96&theme=default" alt="GitHub Streak" />
