@@ -1,54 +1,77 @@
 # Hi 👋, I'm Saurabh
 
-## Data Analyst | SQL | Python | Power BI | Telecom & Business Analytics
+### Software Developer | JavaScript | React | Node.js | Building AI Applications
 
-Data Analyst with experience in telecom operations, reporting, and customer data analysis across India and Canada. Skilled in SQL, Python, dashboard reporting, and business analytics with a focus on operational insights, reporting automation, and data-driven decision-making.
+<img align="right" alt="Software Engineering" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
 
-<img align="right" alt="Data Analytics" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
+I'm a software developer with a background in web development, telecom, and business/technical operations. I'm currently rebuilding my engineering foundations through hands-on development and progressively moving toward AI engineering.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saurabhsindhu96&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhsindhu96" />
-</p>
+### 🎯 Current Focus
 
-* 📊 Experienced in **Business Analytics, Telecom Analytics, Reporting & Data Visualization**
-* 💡 Working on projects related to **SQL, dashboards, reporting automation, and data analysis**
-* 🛠 Skilled in **SQL, Python, Power BI, Excel, PostgreSQL, and MySQL**
-* 📫 Reach me at: **[www.linkedin.com/in/saurabhsindhu](http://www.linkedin.com/in/saurabhsindhu)**
+- 🟨 JavaScript & programming fundamentals
+- ⚛️ React & modern frontend development
+- 🟢 Node.js & backend development
+- 🗄️ SQL & databases
+- 🐍 Python
+- 🤖 AI application development
+- 🧠 Problem solving & data structures
+- 🛠️ Git, GitHub & software engineering practices
+
+### 🚀 My Engineering Journey
+
+**Stage 1 — Excellent Software Engineer**
+
+My immediate goal is to become a strong software engineer who can understand problems, design solutions, write clean code, build applications, debug effectively, and work with modern development tools.
+
+**Stage 2 — AI Engineering**
+
+Once the engineering foundation is strong, I'll specialize in building practical AI-powered applications and production AI systems.
+
+### 🧱 Engineering Foundations
+
+This repository documents my current engineering foundation journey:
+
+- JavaScript
+- Programming fundamentals
+- Problem solving
+- Data structures & algorithms
+- Git & GitHub
+- SQL
+- Python
+- Projects
+
+I believe in learning by building rather than simply completing courses.
+
+### 🛠️ Technologies
+
+**Languages**
+
+JavaScript • Python • SQL
+
+**Frontend**
+
+HTML • CSS • React
+
+**Backend**
+
+Node.js • REST APIs • PostgreSQL
+
+**Tools**
+
+Git • GitHub
+
+*More technologies will be added as I learn and use them in real projects.*
+
+### 📂 Featured Projects
+
+I'm currently rebuilding and creating projects that demonstrate practical software engineering skills.
+
+More projects will be added here as they are completed, deployed, and documented.
+
+### 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/saurabhsindhu/
 
 ---
 
-## Connect with me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/saurabhsindhu/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/saurabh_sindhu" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-</p>
-
----
-
-## Tech Stack
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saurabhsindhu96&theme=default" alt="GitHub Streak" />
-</p>
+> **Build. Understand. Improve. Repeat.**
